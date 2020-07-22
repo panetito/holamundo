@@ -1,4 +1,4 @@
 <?php
-echo "<br />";
+echo "\n";
 echo gethostname();
 ?>
